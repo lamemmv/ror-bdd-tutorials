@@ -1,0 +1,19 @@
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+/Users/emai2/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/emai2/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20190620-30174-1kl9dmd.rb extconf.rb
+creating Makefile
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20190620-30174-1k56mwa/byebug

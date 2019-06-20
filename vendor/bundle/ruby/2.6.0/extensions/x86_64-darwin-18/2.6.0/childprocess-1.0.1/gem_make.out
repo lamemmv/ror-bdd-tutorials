@@ -1,0 +1,5 @@
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
+/Users/emai2/.rvm/rubies/ruby-2.6.3/bin/ruby mkrf_conf.rb
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/childprocess-1.0.1/ext
+/Users/emai2/.rvm/rubies/ruby-2.6.3/bin/ruby -rrubygems /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR\=/Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0/childprocess-1.0.1 RUBYLIBDIR\=/Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/extensions/x86_64-darwin-18/2.6.0/childprocess-1.0.1

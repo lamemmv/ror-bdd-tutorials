@@ -1,0 +1,15 @@
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+/Users/emai2/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/emai2/.rvm/rubies/ruby-2.6.3/lib/ruby/2.6.0 -r ./siteconf20190620-30174-1r8i7wq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/emai2/Documents/emai2/self-study/RoR/bdd-app/vendor/bundle/ruby/2.6.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190620-30174-1rj36fq/skiptrace
